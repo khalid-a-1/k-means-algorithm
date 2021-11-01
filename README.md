@@ -1,10 +1,10 @@
-*CS339: Artificial Intelligence*
+# CS339: Artificial Intelligence
 
 ***Spring 2021***
 
-**Project 2: K-Means Algorithm**
+## Project 2: K-Means Algorithm
 
-***Overview:***
+#### Overview:
 
 The learning goal for this project is to implement the k-means algorithm and to apply it to a realistic situation. The project will involve multiple steps:
 
@@ -18,7 +18,7 @@ The learning goal for this project is to implement the k-means algorithm and to 
 
 This is a larger project, with a larger scope, that will take more time to complete. Thus we will break the project down into the following deadlines:
 
-**Deadline1: basic k-means code**
+### Deadline1: basic k-means code
 
 For this first deadline, you will complete a jupyter notebook implementing the k-means algorithm from scratch. You may use the algorithm in the book. I have given you a data set called data.txt which is a simple two-dimensional data set. You will run your hand crafted k-means algorithm on this dataset.
 
@@ -30,7 +30,7 @@ For this first deadline, you will complete a jupyter notebook implementing the k
 
 submission: a jupyter notebook containing the steps above
 
-**Deadline2: research paper draft**
+### Deadline2: research paper draft
 
 There are multiple steps in this part of the project.
 
@@ -44,13 +44,13 @@ There are multiple steps in this part of the project.
 
 submission: a jupyter notebook showing your research, and a pdf of your paper.
 
-**Deadline3: final research paper**
+### Deadline3: final research paper
 
 This final step has you polish your previous draft and complete a final research paper for submission. We will do a peer-reviewed reading of your draft paper for you to receive feedback.
 
 submission: the final pdf of your paper.
 
-**Research Questions**
+## Research Questions
 
 An important step in this project is to formulate a research question and then to conduct an experiment on your question. Here are some possible question ideas.
 
@@ -64,7 +64,7 @@ An important step in this project is to formulate a research question and then t
 
 5. Formulate your own research question that involves k-means clustering and vector quantization of images. Visit an office hour or send an email to get approval of your research topic before you embark on it.
 
-**Research Paper**
+### Research Paper
 
 You will submit a full pdf (from LaTeX) paper for this project along with your code. The research paper should follow the conventions we discuss in class of good research papers. Your research paper should concentrate on your research question, and not on the whole k-means project or your learning experience. Keep the paper focused narrowly on your research question. Your question should form a thesis, and the structure of your paper should follow the experimentation that you performed to investigate that thesis.
 
