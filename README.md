@@ -77,4 +77,4 @@ Attributes for evaluation:
 - Are there appropriate graphics to support the data story?
 - Does the paper show good control over style, tone, and mechanics?
 
-# For more information, read Project2_kmeans.docx
+# For more information, read Project2_kmeans.pdf
