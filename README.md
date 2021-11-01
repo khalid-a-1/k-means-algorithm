@@ -1,10 +1,10 @@
-**CS339: Artificial Intelligence**
+*CS339: Artificial Intelligence*
 
-**Spring 2021**
+***Spring 2021***
 
 **Project 2: K-Means Algorithm**
 
-**Overview:**
+***Overview:***
 
 The learning goal for this project is to implement the k-means algorithm and to apply it to a realistic situation. The project will involve multiple steps:
 
